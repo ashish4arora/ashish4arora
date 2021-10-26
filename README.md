@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 An 18 Year old developer who knows a little about coding <br>
 Development or competitive programming? Why not both! :D<br>
+I also like to work on graphics and editing
 Reach out to me: <br>
 ✉️ ashisharora.dev@gmail.com
 
