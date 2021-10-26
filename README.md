@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+An 18 Year old developer who knows a little about coding.
+Development or competitive programming? Why not both! :D
+Reach out to me: 
+✉️ ashisharora.dev@gmail.com
+
