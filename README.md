@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A 19 Year old developer who knows a little about coding<br>
+A 20 Year old developer who knows a little about coding<br>
 Development or competitive programming? Why not both! :D<br>
 I also like to work on graphics and editing<br><br>
 Reach out to me: 
