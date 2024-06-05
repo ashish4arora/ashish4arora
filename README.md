@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A 21 Year old developer who knows a little about coding<br>
+A 21 year old developer who knows a little about coding<br>
 Enthu about Tech and Biz
 
 Reach out to me: 
